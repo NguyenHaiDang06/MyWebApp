@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "D:\\MyWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8767E82D-409A-48EF-9F9B-0323EBAB713C}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|d:\\mywebapp\\mywebapp\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7F8A7-FF3E-2AB7-AFA0-25E76A6A2764}|MyWebApp\\MyWebApp.csproj|solutionrelative:mywebapp\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +66,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "MyWebApp\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T02:17:59.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RenderLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeToolTip": "MyWebApp\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T02:15:31.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RenderViewComponent.cs",
+              "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "D:\\MyWebApp\\MyWebApp\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeToolTip": "MyWebApp\\ViewComponents\\RenderViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:11:54.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "MyWebApp\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\MyWebApp\\MyWebApp\\Models\\MenuItem.cs",
+              "RelativeToolTip": "MyWebApp\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:08:10.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "MyWebApp\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T02:03:10.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeToolTip": "MyWebApp\\Views\\Shared\\LeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T02:02:53.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TopNav.cshtml",
+              "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\TopNav.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\TopNav.cshtml",
+              "RelativeToolTip": "MyWebApp\\Views\\Shared\\TopNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T02:02:32.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "MyWebApp\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "D:\\MyWebApp\\MyWebApp\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "MyWebApp\\Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T01:55:54.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "MyWebApp\\Views\\Student\\Create.cshtml",
               "ToolTip": "D:\\MyWebApp\\MyWebApp\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "MyWebApp\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-19T01:03:01.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "MyWebApp\\Views\\Student\\Index.cshtml",
               "ToolTip": "D:\\MyWebApp\\MyWebApp\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "MyWebApp\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-19T00:57:01.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "MyWebApp\\Controllers\\StudentController.cs",
@@ -72,12 +208,11 @@
               "RelativeToolTip": "MyWebApp\\Controllers\\StudentController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T00:51:58.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T00:51:58.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Models\\Student.cs",
               "RelativeDocumentMoniker": "MyWebApp\\Models\\Student.cs",
@@ -85,12 +220,11 @@
               "RelativeToolTip": "MyWebApp\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T00:44:17.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T00:44:17.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Branch.cs",
               "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Models\\Branch.cs",
               "RelativeDocumentMoniker": "MyWebApp\\Models\\Branch.cs",
@@ -98,18 +232,17 @@
               "RelativeToolTip": "MyWebApp\\Models\\Branch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T00:42:56.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T00:42:56.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Gender.cs",
               "DocumentMoniker": "D:\\MyWebApp\\MyWebApp\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "MyWebApp\\Models\\Gender.cs",
               "ToolTip": "D:\\MyWebApp\\MyWebApp\\Models\\Gender.cs",
               "RelativeToolTip": "MyWebApp\\Models\\Gender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T00:41:59.902Z",
               "EditorCaption": ""
